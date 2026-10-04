@@ -356,7 +356,7 @@ export default function App() {
                   onClick={triggerApology}
                   className="px-6 py-3.5 rounded-full bg-gradient-to-r from-red-600 to-amber-600 text-white font-bold text-sm hover:from-red-500 hover:to-amber-500 hover:scale-105 active:scale-95 transition-all shadow-lg shadow-red-600/40 cursor-pointer inline-flex items-center gap-2"
                 >
-                  <Hammer size={18} /> Test Steel Rod Strength & Request Apology 🔨🔊
+                  <Hammer size={18} /> Test Steel Rod Strength 🔨🔊
                 </button>
               </div>
 
